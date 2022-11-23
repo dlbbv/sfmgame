@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">DRUNK SNAIL</string>
+    <string name="quit_icon">Quit</string>
+    <string name="angles_menu">Angle</string>
+    <string name="menu_menu">Menu</string>
+    <string name="gtext">Gtext</string>
+    <string name="ltext">Ltext </string>
+    <string name="qicon">Question</string>
+    <string name="house_text">Квартира</string>
+    <string name="housel_text">Нам не страшно,\nчто подумают о\nнас соседи!</string>
+    <string name="nature_text">Природа</string>
+    <string name="naturel_text">Сегодня кто-то\nточно полезет\nна дерево!</string>
+    <string name="home_text">Узкий круг</string>
+    <string name="homel_text">У нас нет ничего,\nкроме нас\nсамих!</string>
+    <string name="madness_text">Все и вся</string>
+    <string name="madnessl_text">У нас вообще\nкукуха не\nработает!</string>
+    <string name="picturedescr">Picture Description</string>
+    <string name="goplay">OKEEEEEY\nLET\'S GO</string>
+    <string name="attention">ATTENTION</string>
+    <string name="at_text">Распитие алкоголя может привести к непредвиденным последствиям. Будьте разумными, употребляйте в меру.  Заранее отложите деньги на такси и ни в коем случае не садитесь за руль в нетрезвом виде.\nНажимая кнопку снизу, вы берете на себя всю ответственность за произошедшее во время игры.</string>
+    <string name="goplay_text">Приятного отдыха и веселой игры!</string>
+    <string name="ques1_text">В игре есть 4 режима.\n\nРежим “Квартира” - игроки находятся в многоквартирном доме и имеют возможность выходить в подъезд и во двор дома.\n\nРежим “Природа” - игроки находятся на свежем воздухе, не контактируют с другими людьми.\n\nРежим “Узкий круг” - игроки не обладают посторонними предметами и не контактируют с внешним миром.\n\n
+Режим “Все и вся” - игроки решили, что им по плечу все  задания, которые у нас есть.</string>
+    <string name="ques2_text">Я не знаю, зачем ты нажал на знак вопроса во время игры, но если вдруг ты не понял, как играть, то я расскажу..\n\nПосле того, как ты выбрал режим, тебе и твоим друзьям выпадают карточки, на которых написано действие, которое должен выполнить тот, чья очередь наступила. Всегда есть возможность просто пропустить стаканчик, но будь аккуратнее. Старайся выполнять как можно больше заданий, чтобы поиграть как можно дольше. Во время игры так же будут попадаться карточки, когда пить придется всем.\nХорошей игры!</string>
+    <string name="quesbigreact">Question</string>
+    <string name="acceptQues">ПОНЯТНО</string>
+    <string name="sfmgame">DRUNK SNAIL</string>
+    <string name="sfm">SFM GAMES</string>
+    <string name="background">Background</string>
+    <string name="textback">Text Background</string>
+    <string name="arrow">Arrow</string>
+    <string name="buttonNext">NEXT</string>
+    <string name="quit_accept">Уже напились?</string>
+    <string name="yes">ДА</string>
+    <string name="no">НЕТ</string>
+    <string name="godonate">DONATE</string>
+    <string name="goclose">ЗАКРЫТЬ</string>
+    <string name="facts">Случайный факт?\nЗа это и выпьем!</string>
+    <string name="dlbbv">Written by\n@dlbbv</string>
+    <string name="olegotrip">Produced by\n@TRIP</string>
+    <string name="minako">Drawn by\n@adepte_xiiiao</string>
+    <string name="cha">Music by\n@tea_boycha</string>
+    <string name="donate">Спасибо, что выбрали нас!\nИгра является бесплатной и в ней отсутствует какая-либо реклама для комфортного времяпровождения в компании. Мы очень старались, чтобы создать этот продукт и надеемся, что вам он понравился.\n\nЕсли у вас есть желание и возможность отблагодарить нас за проделанную работу, вы можете воспользоваться кнопкой ниже.\n\nПо любым вопросам и предложениям пишите на почту snailfeelme@gmail.com\nПриятной игры!</string>
+</resources>

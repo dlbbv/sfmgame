@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GAME/app/src/main/res/drawable-v24/borderimage.xml" value="0.257" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/backgroundfact.xml" value="0.243" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/backgroundqr.xml" value="0.257" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/backgroundquit.xml" value="0.2775" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/borderimage.xml" value="0.257" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/ic_back_reactangle.xml" value="0.257" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/ic_bigrectangle.xml" value="0.257" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/ic_book_icon.xml" value="0.2045" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/ic_ellipse_1.xml" value="0.257" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/ic_ellipse_2.xml" value="0.257" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/ic_ellipse_3.xml" value="0.257" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/ic_ellipse_4.xml" value="0.257" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/ic_gift.xml" value="0.2045" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/ic_launcher_background.xml" value="0.244" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/ic_pivo.xml" value="0.2045" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/ic_quit.xml" value="0.2045" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/ic_rectangle_menu.xml" value="0.2545" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/ic_ungleld.xml" value="0.244" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/ic_unglelt.xml" value="0.244" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/ic_unglerd.xml" value="0.244" />
+        <entry key="..\:/GAME/app/src/main/res/drawable/ic_unglert.xml" value="0.244" />
+        <entry key="..\:/GAME/app/src/main/res/layout/activity_attention.xml" value="0.33" />
+        <entry key="..\:/GAME/app/src/main/res/layout/activity_home.xml" value="0.25677083333333334" />
+        <entry key="..\:/GAME/app/src/main/res/layout/activity_house.xml" value="0.1" />
+        <entry key="..\:/GAME/app/src/main/res/layout/activity_launch.xml" value="0.23072916666666668" />
+        <entry key="..\:/GAME/app/src/main/res/layout/activity_madness.xml" value="0.23641304347826086" />
+        <entry key="..\:/GAME/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/GAME/app/src/main/res/layout/activity_nature.xml" value="0.23641304347826086" />
+        <entry key="..\:/GAME/app/src/main/res/layout/activity_ques1.xml" value="0.33" />
+        <entry key="..\:/GAME/app/src/main/res/layout/layout_backtomain.xml" value="0.33" />
+        <entry key="..\:/GAME/app/src/main/res/layout/layout_book.xml" value="0.27291666666666664" />
+        <entry key="..\:/GAME/app/src/main/res/layout/layout_donate.xml" value="0.27291666666666664" />
+        <entry key="..\:/GAME/app/src/main/res/layout/layout_ques2.xml" value="0.27291666666666664" />
+        <entry key="..\:/GAME/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2045" />
+        <entry key="..\:/GAME/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.136" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/drawable/backgroundfact.xml" value="0.254" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/drawable/backgroundqr.xml" value="0.254" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/drawable/backgroundquit.xml" value="0.228" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/drawable/borderimage.xml" value="0.254" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/drawable/ic_arrow.xml" value="0.2465" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/drawable/ic_arrow2.xml" value="0.254" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/drawable/ic_back_reactangle.xml" value="0.254" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/drawable/ic_bigrectangle.xml" value="0.254" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/drawable/ic_book_icon.xml" value="0.262" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/drawable/ic_button_reactangle.xml" value="0.262" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/drawable/ic_ellipse_1.xml" value="0.262" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/drawable/ic_gift.xml" value="0.156" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/drawable/ic_pivo.xml" value="0.2095" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/drawable/ic_quit.xml" value="0.1515" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/drawable/ic_text_rectangle.xml" value="0.262" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/drawable/ic_ungleld.xml" value="0.262" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/font/jockey_one.xml" value="0.303125" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/font/jura.xml" value="0.303125" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-large/activity_attention.xml" value="0.18" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-large/activity_house.xml" value="0.17116013071895425" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-large/activity_launch.xml" value="0.16071428571428573" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-large/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-large/layout_backtomain.xml" value="0.16071428571428573" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-large/layout_book.xml" value="0.16071428571428573" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-large/layout_donate.xml" value="0.16071428571428573" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-large/layout_ques2.xml" value="0.16071428571428573" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-normal/activity_attention.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-normal/activity_house.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-normal/activity_launch.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-normal/activity_main.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-normal/layout_backtomain.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-normal/layout_book.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-normal/layout_donate.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-normal/layout_ques2.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-small/activity_attention.xml" value="0.6069767441860465" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-small/activity_house.xml" value="0.6796875" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-small/activity_launch.xml" value="0.67" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-small/activity_main.xml" value="0.67" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-small/layout_backtomain.xml" value="0.6126760563380281" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-small/layout_book.xml" value="0.6126760563380281" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-small/layout_donate.xml" value="0.6126760563380281" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-small/layout_ques2.xml" value="0.6126760563380281" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-xlarge/activity_attention.xml" value="0.1421875" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-xlarge/activity_house.xml" value="0.1290024630541872" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-xlarge/activity_launch.xml" value="0.14747536945812809" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-xlarge/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-xlarge/layout_donate.xml" value="0.14747536945812809" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout-xlarge/layout_ques2.xml" value="0.16502463054187191" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout/activity_attention.xml" value="0.18840579710144928" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout/activity_house.xml" value="0.22" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout/activity_launch.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout/activity_main.xml" value="0.21895424836601307" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout/layout_backtomain.xml" value="0.25" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout/layout_book.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout/layout_donate.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/tooch/OneDrive/Рабочий стол/SFMGAME/GAME/app/src/main/res/layout/layout_ques2.xml" value="0.23097826086956522" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
